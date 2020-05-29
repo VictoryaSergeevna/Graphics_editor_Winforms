@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Exam\ExamPaint\bin\Debug\ExamPaint.exe.config
+C:\Users\Admin\Desktop\Exam\ExamPaint\bin\Debug\ExamPaint.exe
+C:\Users\Admin\Desktop\Exam\ExamPaint\bin\Debug\ExamPaint.pdb
+C:\Users\Admin\Desktop\Exam\ExamPaint\obj\Debug\ExamPaint.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Exam\ExamPaint\obj\Debug\ExamPaint.Form1.resources
+C:\Users\Admin\Desktop\Exam\ExamPaint\obj\Debug\ExamPaint.Properties.Resources.resources
+C:\Users\Admin\Desktop\Exam\ExamPaint\obj\Debug\ExamPaint.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Exam\ExamPaint\obj\Debug\ExamPaint.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Exam\ExamPaint\obj\Debug\ExamPaint.exe
+C:\Users\Admin\Desktop\Exam\ExamPaint\obj\Debug\ExamPaint.pdb
